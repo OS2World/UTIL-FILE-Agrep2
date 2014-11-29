@@ -1,0 +1,55 @@
+AGREP for OS/2
+
+This version of Agrep has been updated to allow for wildcard support for 
+OS/2 file names, and also has some changes to the options for ease of use
+(see documentation in main.c). 
+
+Please read the "copyrite" file for information on other considerations 
+before making this available internally to IBM. 
+
+Also, the code could use some tidying up, but is presented here "asis"
+for others to enjoy and use. 
+
+Files in ZIP file:
+
+agrep.1      - Unix MANPAGE for agrep (does not have the OS/2 specific info)
+agrep.alg    - Information on the algorithms used in agrep
+agrep.doc    - Simple ASCII documentation (with OS/2 specific info)
+agrep.h      - header file  
+agrep.his    - Internet AGREP history file
+agrep.mak    - Make file for CSET/2
+asearch.c    - Source 
+asearch.exe  - AGREP Executable (rename to agrep.exe)
+asearch.map  - Map file
+asearch.obj  - CSET Object file
+asearch1.c   - Source
+asearch1.obj - CSET Object file
+bitap.c      - Source
+bitap.obj    - CSET Object file 
+chkfile.c    - Source 
+chkfile.h    - Source header file
+chkfile.obj  - CSET Object file 
+compat.c     - Source 
+compat.obj   - CSET Object file 
+contrib.lst  - Contributors list
+copyrite     - Copywrite information
+follow.c     - Source 
+follow.obj   - CSET Object file 
+main.c       - Source 
+main.obj     - CSET Object file 
+Makefile     - Generic Make file
+maskgen.c    - Source 
+maskgen.obj  - CSET Object file 
+mgrep.c      - Source 
+mgrep.obj    - CSET Object file 
+parse.c      - Source 
+parse.obj    - CSET Object file 
+preproc.c    - Source 
+preproc.obj  - CSET Object file 
+re.h         - Source Header
+read.me      - THIS FILE
+README       - Readme supplied with agrep from the internet
+sgrep.c      - Source 
+sgrep.obj    - CSET Object file 
+util.c       - Source 
+util.obj     - CSET Object file 

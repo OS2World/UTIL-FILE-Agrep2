@@ -1,0 +1,14 @@
+/DEBUG /ALIGN:32 /BASE:65536 /EXEPACK /M /NOI /NOL \unixlike\src\agrep\asearch.obj+
+\unixlike\src\agrep\asearch1.obj+
+\unixlike\src\agrep\bitap.obj+
+\unixlike\src\agrep\chkfile.obj+
+\unixlike\src\agrep\compat.obj+
+\unixlike\src\agrep\follow.obj+
+\unixlike\src\agrep\main.obj+
+\unixlike\src\agrep\maskgen.obj+
+\unixlike\src\agrep\mgrep.obj+
+\unixlike\src\agrep\parse.obj+
+\unixlike\src\agrep\preproc.obj+
+\unixlike\src\agrep\sgrep.obj+
+\unixlike\src\agrep\util.obj,
+\unixlike\bin\agrep.exe,,,\unixlike\src\agrep\agrep.def
